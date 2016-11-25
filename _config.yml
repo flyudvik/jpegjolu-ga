@@ -7,6 +7,9 @@ baseurl: ""
 url: "https://jpegjolu.ga" 
 twitter_username: socialamywoo
 github_username:  amywoodehy
+disqus:
+  shortname: jpegjolu-ga
+google_analytics: UA-48245585-4
 
 # Build settings
 markdown: kramdown
@@ -16,6 +19,3 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-disqus:
-  shortname: jpegjolu-ga
-google_analitycs: UA-48245585-4
