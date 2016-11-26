@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+Голосуйте мудро! Ведь не каждый выбранный депутат верен своему пути!
+
