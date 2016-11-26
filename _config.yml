@@ -12,6 +12,7 @@ disqus:
 google_analytics: UA-48245585-4
 
 # Build settings
+exclude: [vendor]
 markdown: kramdown
 theme: minima
 gems:
