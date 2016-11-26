@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -e
+
+export JEKYLL_ENV=production
+
+bundle exec jekyll build
+bundle exce htmlproofer ./_site
+
