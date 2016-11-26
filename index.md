@@ -1,8 +1,6 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+> И другие интернет партии Кыргызстана
 Голосуйте мудро! Ведь не каждый выбранный депутат верен своему пути!
-
+Пройдите наш коротенький [опросник](https://goo.gl/forms/VSW049uQqGP0bDzn1)
